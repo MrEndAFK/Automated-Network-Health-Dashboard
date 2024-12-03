@@ -22,21 +22,25 @@ Python 3.8 or higher
 
 # Installation
 Clone the repository:
+
     ```
     git clone https://github.com/MrEndAFK/Automated-Network-Health-Dashboard.git
     cd Automated-Network-Health-Dashboard
     ```
 
 # Install dependencies:
+
     ```
     pip install flask
     ```
 
 # Run the Flask application:
+
     ```
     python3 monitor.py
     ```
 **Open your browser and navigate to:**
+
     ```
     http://127.0.0.1:5000
     ```
